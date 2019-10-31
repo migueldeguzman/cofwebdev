@@ -11,5 +11,8 @@ Project Specifications:
 
 * Github account and stats
 
+The coalition will determine a suitable number of officers, responsible for various tasks especially in maintenance and admission of members, as well as communication to all stakeholders. The coalition may also need to register the group as a non-profit organization in the Philippines for it to operate better with Philippine laws and regulations.
+
 Project is open for all Filipinos all over the world. As the project do not require a membership or fee for admission, the admin/founders may impose a screening process to improve the quality of developers being admitted. Detailed scheme of the screening process will be posted.
+
 
