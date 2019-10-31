@@ -11,8 +11,5 @@ Project Specifications:
 
 * Github account and stats
 
-
-
-
-Enlisting will be open for all Filipinos all over the world.
+Project is open for all Filipinos all over the world. As the project do not require a membership or fee for admission, the admin/founders may impose a screening process to improve the quality of developers being admitted. Detailed scheme of the screening process will be posted.
 
